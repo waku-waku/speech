@@ -1,0 +1,17 @@
+.gradle
+/local.properties
+project.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/gradle
+/gen
+/libs
+/bin
+/res
+.classpath
+.project
+AndroidManifest.xml
+build.gradle
+proguard-project.txt
